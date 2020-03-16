@@ -5,3 +5,7 @@ a.button.zoomIn {
 .flexblock.features li img {
   width: 100%
 }
+
+.fab {
+  color: #1DA1F2;
+}
